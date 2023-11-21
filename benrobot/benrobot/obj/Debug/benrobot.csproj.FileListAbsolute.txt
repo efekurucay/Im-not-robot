@@ -1,0 +1,12 @@
+C:\Users\efeku\source\repos\benrobot\benrobot\bin\Debug\benrobot.exe.config
+C:\Users\efeku\source\repos\benrobot\benrobot\bin\Debug\benrobot.exe
+C:\Users\efeku\source\repos\benrobot\benrobot\bin\Debug\benrobot.pdb
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.csproj.AssemblyReference.cache
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.Form1.resources
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.Properties.Resources.resources
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.csproj.GenerateResource.cache
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.csproj.CoreCompileInputs.cache
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.exe
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.pdb
+C:\Users\efeku\source\repos\benrobot\benrobot\obj\Debug\benrobot.Form2.resources
